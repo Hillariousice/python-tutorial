@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "concation"
+    ],
+    "python.analysis.extraPaths": [
+        "./function"
+    ]
+}
